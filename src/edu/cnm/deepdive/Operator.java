@@ -44,4 +44,5 @@ public enum Operator {
     return token;
   }
 
+// TODO Add operate method w/ switch (later version will use @Override).
 }
