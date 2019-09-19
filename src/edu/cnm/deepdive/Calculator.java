@@ -11,7 +11,7 @@ public class Calculator {
   private Deque<Double> operands;
 
   public static void main(String[] args) {
-   Calculator calc = new Calculator(new Scanner(System.in));
+    Calculator calc = new Calculator(new Scanner(System.in));
     calc.process();
   }
 
